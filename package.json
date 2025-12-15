@@ -1,0 +1,37 @@
+{
+  "name": "supply-chain-optimizer",
+  "version": "1.0.0",
+  "description": "Advanced Supply Chain Optimization Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "date-fns": "^2.30.0",
+    "echarts": "^5.4.3",
+    "echarts-for-react": "^3.0.2",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.292.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.20.0",
+    "recharts": "^2.10.4",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.10",
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.7"
+  }
+}
